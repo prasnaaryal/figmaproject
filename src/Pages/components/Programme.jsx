@@ -10,7 +10,7 @@ const Programme = () => {
         </div>
         <div className="grid grid-cols-4 gap-8">
           <div className="flex flex-col items-center bg-gray-700 p-6 rounded-lg">
-            <div className="mb-4">🏋️</div>
+            <div className="mb-4"><CgGym /></div>
             <h3 className="font-bold mb-2">Strength Training</h3>
             <p>Our trainers will design that a progressive workout plans that proper achieve gains strength.</p>
             <a href="#" className="mt-auto text-orange-500">Learn More →</a>
@@ -23,13 +23,13 @@ const Programme = () => {
             <a href="#" className="mt-auto text-orange-500">Learn More →</a>
           </div>
           <div className="flex flex-col items-center bg-orange-500 p-6 rounded-lg text-black">
-            <div className="mb-4"></div>
+            <div className="mb-4"><CgGym /></div>
             <h3 className="font-bold mb-2">Body Building</h3>
             <p>For those looking to increase strength build lean muscle, our strength & muscle.</p>
             <a href="#" className="mt-auto text-gray-900">Learn More →</a>
           </div>
           <div className="flex flex-col items-center bg-gray-700 p-6 rounded-lg">
-            <div className="mb-4">🏃</div>
+            <div className="mb-4"><CgGym /></div>
             <h3 className="font-bold mb-2">Weight Loss</h3>
             <p>Our weight loss programs are designed to help you make sustainable lifestyle changes.</p>
             <a href="#" className="mt-auto text-orange-500">Learn More →</a>
